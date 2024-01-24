@@ -1,0 +1,10 @@
+Pseudocode:
+
+Prompt the user to enter a number
+num=user input
+
+IF the number is divisible by 2 without a remainder THEN
+OUTPUT num=user input "is even"
+
+ELSE
+OUTPUT num=user input "is odd"
