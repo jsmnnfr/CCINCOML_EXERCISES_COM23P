@@ -1,0 +1,12 @@
+Pseudocode:
+Prompt the user to enter a number
+num=user input
+
+IF the sum of two cards is equal and greater than 17
+OUTPUT "Player Wins"
+
+ELSE IF the sum of two cards equals dealer's cards value
+OUTPUT "Tie"
+
+ELSE
+OUTPUT "Dealer Wins"
